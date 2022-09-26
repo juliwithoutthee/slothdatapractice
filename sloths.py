@@ -16,4 +16,6 @@ print(len(specie_three_toed))
 
 # critically_endangered = df["critically_endangered"]  # Fix later
 
+
+# Filters and creates a new csv file 
 specie_three_toed.to_csv("specie-three-toed.csv")
