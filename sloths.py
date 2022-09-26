@@ -22,3 +22,5 @@ print(len(specie_two_toed))
 
 # Filters and creates a new csv file 
 specie_three_toed.to_csv("specie-three-toed.csv")
+
+specie_two_toed.to_csv("specie-two-toed.csv")
