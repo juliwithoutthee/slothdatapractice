@@ -20,6 +20,10 @@ print(len(specie_two_toed))
 critically_endangered = df[(df["endangered"] == "critically_endangered")] 
 print(len(critically_endangered))
 
+vulnerable = df[(df["endangered"] == "vulnerable")]
+
+
+
 # Filters and creates a new csv file 
 specie_three_toed.to_csv("specie-three-toed.csv")
 
