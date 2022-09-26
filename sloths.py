@@ -14,6 +14,9 @@ specie = df['specie']
 specie_three_toed = df[(df["specie"] == "three_toed")]
 print(len(specie_three_toed))
 
+specie_two_toed = df[(df["specie"] == "two_toed")]
+print(len(specie_two_toed))
+
 # critically_endangered = df["critically_endangered"]  # Fix later
 
 
