@@ -1,5 +1,8 @@
 import pandas as pd
 
+
+# data frame 
 df = pd.read_csv('sloth_data.csv')
 
-print(df.head())  # prints out first five lines
+# prints out first five lines
+print(df.head())
