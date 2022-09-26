@@ -10,3 +10,4 @@ print(df.head())
 specie = df['specie'] 
 print(specie)
 
+critically_endangered = df["critically_endangered"]
