@@ -14,4 +14,6 @@ specie = df['specie']
 specie_three_toed = df[(df["specie"] == "three_toed")]
 print(len(specie_three_toed))
 
-# critically_endangered = df["critically_endangered"]
+# critically_endangered = df["critically_endangered"]  # Fix later
+
+specie_three_toed.to_csv("specie-three-toed.csv")
