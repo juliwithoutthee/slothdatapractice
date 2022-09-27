@@ -4,6 +4,7 @@ The purpose of this repository is to practice using python with pandas and also 
 
 ## **Sloths**
 
+Sloths are among the slowest animals in the world. There are two main species of sloths: three-toed (more accurately three-fingered) and two-toed (two-fingered) sloths. 
 
 ### **Three-Toed**
 
@@ -23,6 +24,7 @@ The types of two-toed sloths include:
 * Hoffman’s two-toed sloth (Choloepus hoffmanni)
 
 
+
 ## **Data Information**
 The original sloth data is from 
-[Kaggle](https://www.kaggle.com/datasets/bertiemackie/sloth-species)
+[Kaggle](https://www.kaggle.com/datasets/bertiemackie/sloth-species).
