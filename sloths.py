@@ -37,3 +37,6 @@ print(sub_specie)
 
 hoffman = df[(df["sub_specie"]== "Hoffman’s two-toed sloth")]
 print(len(hoffman))
+
+linnaeus = df[(df["sub_specie"] == "Linnaeus’s two-toed sloth")]
+print(len(linnaeus))
