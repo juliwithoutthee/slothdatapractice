@@ -28,3 +28,12 @@ least_concern = df[(df["endangered"] == "least_concern")]
 specie_three_toed.to_csv("specie-three-toed.csv")
 
 specie_two_toed.to_csv("specie-two-toed.csv")
+
+
+# Sort sub species 
+
+sub_specie = df[["sub_specie"]]
+print(sub_specie)
+
+hoffman = df[(df["sub_specie"]== "Hoffman’s two-toed sloth")]
+print(len(hoffman))
