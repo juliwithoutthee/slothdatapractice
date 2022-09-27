@@ -2,7 +2,7 @@
 
 The purpose of this repository is to practice using python with pandas and also learn more about sloths by using the data included. 
 
-## **Sloths**
+## [**Sloths**](https://en.wikipedia.org/wiki/Sloth)
 
 Sloths are among the slowest animals in the world. There are two main species of sloths: three-toed (more accurately three-fingered) and two-toed (two-fingered) sloths. 
 
