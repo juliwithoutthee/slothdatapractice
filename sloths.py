@@ -5,6 +5,8 @@ import pandas as pd
 # data frame 
 df = pd.read_csv('sloth_data.csv')
 
+pd.set_option("display.max.columns", None)
+
 # prints out first five lines
 print(df.head())
 
@@ -40,3 +42,5 @@ print(len(hoffman))
 
 linnaeus = df[(df["sub_specie"] == "Linnaeus’s two-toed sloth")]
 print(len(linnaeus))
+
+
