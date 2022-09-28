@@ -43,4 +43,10 @@ print(len(hoffman))
 linnaeus = df[(df["sub_specie"] == "Linnaeus’s two-toed sloth")]
 print(len(linnaeus))
 
+brown_throat = df[(df["sub_specie"] == "Brown-throated sloth")] 
 
+pygmy = df[(df["sub_specie"] == "Pygmy three-toed sloth")] 
+
+pale_throat = df[(df["sub_specie"] == "Pale-throated sloth")] 
+
+maned = df[(df["sub_specie"] == "Maned three-toed sloth")]
