@@ -12,9 +12,12 @@ This data includes data for 2662 three-toed sloths.
 
 The types of three-toed sloths include: 
 * Pygmy three-toed sloth (Bradypus pygmaeus)
-* Maned sloth (Bradypus torquatus)
+* Maned sloth (Bradypus torquatus)** 
 * Pale-throated sloth (Bradypus tridactylus)
 * Brown-throated sloth (Bradypus variegatus)
+
+** Maned sloths will eventually be split into two sub-species based on geographical differences and other recent discoveries from recent research. 
+
 ### **Two-Toed**
 
 This data includes data for 2338 two-toed sloths. 
