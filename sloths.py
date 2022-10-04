@@ -10,6 +10,8 @@ pd.set_option("display.max.columns", None)
 # prints out first five lines
 print(df.head())
 
+print(df.columns)
+
 specie = df['specie'] 
 # print(specie)
 
