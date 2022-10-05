@@ -16,7 +16,7 @@ The types of three-toed sloths include:
 * Pale-throated sloth (Bradypus tridactylus)
 * Brown-throated sloth (Bradypus variegatus)
 
-** Maned sloths will eventually be split into two sub-species based on geographical differences and other recent discoveries from recent research. 
+** Maned sloths will eventually be split into two sub-species based on geographical differences and other recent discoveries from recent research. [ Read More Here!](https://www.newscientist.com/article/2340263-newly-recognised-species-of-sloth-has-a-head-like-a-coconut/)
 
 ### **Two-Toed**
 
